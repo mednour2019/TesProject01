@@ -1,0 +1,3 @@
+#ignore files that i can't see them in my repository
+build/
+*.txt
